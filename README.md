@@ -1,2 +1,3 @@
 # Tournme
-front-end for Tournme in angular2 and typescript 
+Front-end application for Tournme in angular2 and typescript 
+
